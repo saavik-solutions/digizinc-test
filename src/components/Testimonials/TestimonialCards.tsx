@@ -15,7 +15,7 @@ const TestimonialCard: React.FC<TestimonialProps> = ({
     <div
       className="relative bg-cover bg-center bg-no-repeat p-6 rounded-lg shadow-lg text-white border border-purple-400/30 flex flex-col min-h-[280px] h-full w-96 snap-start transition-opacity duration-700 ease-in-out"
       style={{
-        backgroundImage: `linear-gradient(to bottom, rgba(26, 8, 38, 0.85), rgba(26, 8, 38, 0.85)), url('/Rectangle_25.png.jpg')`,
+        backgroundImage: `linear-gradient(to bottom, rgba(26, 8, 38, 0.85), rgba(26, 8, 38, 0.85)), url('/Rectangle_25.png')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
