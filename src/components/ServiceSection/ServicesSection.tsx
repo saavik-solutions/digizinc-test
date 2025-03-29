@@ -1,4 +1,4 @@
-"use client";
+
 import { motion } from "framer-motion";
 import { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
